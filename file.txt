@@ -1,1 +1,10 @@
 Ini adalah file.txt
+
+- Clone
+- Lakukan perubahan : add, commit
+- git pull origin master
+- git push origin master
+
+unrelated-histories
+
+git pull --allow-unrelated-histories
